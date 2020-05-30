@@ -6,11 +6,11 @@
 1. **未定**(決まり次第追記)
 
 #### システム仕様
-1. バックエンド：　spring framework(Java)
-1. フロント：　Angularjs
-1. クライアント：　apple Watch（swift?）
-1. アーキテクチャ：　MVC
-1. インフラ：　AWS(想定)
+1. バックエンド： spring framework(Java)
+1. フロント： Angularjs
+1. クライアント： apple Watch（swift?）
+1. アーキテクチャ： MVC
+1. インフラ： AWS(想定)
 
 #### インストール（環境構築方法）
 1. **未定**(決まり次第追記)
